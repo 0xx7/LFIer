@@ -1,0 +1,1 @@
+Example: python3 lfi.py --target="http://localhost/index.php?page=config.php"
